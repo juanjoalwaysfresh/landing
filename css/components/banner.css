@@ -1,0 +1,34 @@
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(../../images/Banner.png);
+  background-attachment: fixed;
+  height: 600px;
+  background-size: cover;
+  background-position: 0px -200px;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 50px;
+  margin: 0 ;
+  margin-bottom: 10px;
+}
+
+.banner p {
+  color: white;
+  opacity: 0.9;
+  font-size: 25px;
+  font-weight: 300;
+  margin: 0 ;
+  margin-bottom: 40px;
+}
+
+
+.banner img {
+  position: fixed;
+  height: 130px;
+  right: 1775px;
+  top: -25px;
+}
